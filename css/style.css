@@ -1,0 +1,25 @@
+.card-wide {
+  width:820px;
+  height:50px !important;
+  min-height:50px !important;
+  margin:20px;
+}
+
+#close-button {
+  cursor: pointer;
+}
+
+#resource-box {
+  margin:20px;
+  max-width:1000px; 
+  min-width: 820px;
+}
+
+#status, #log{
+  padding-top:20px;
+}
+
+#url {
+  padding-top:10px;
+  padding-bottom:10px;
+}
